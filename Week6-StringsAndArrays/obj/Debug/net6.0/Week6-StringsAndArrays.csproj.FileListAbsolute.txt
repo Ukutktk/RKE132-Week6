@@ -1,0 +1,14 @@
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\Week6-StringsAndArrays\bin\Debug\net6.0\Week6-StringsAndArrays.exe
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\Week6-StringsAndArrays\bin\Debug\net6.0\Week6-StringsAndArrays.deps.json
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\Week6-StringsAndArrays\bin\Debug\net6.0\Week6-StringsAndArrays.runtimeconfig.json
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\Week6-StringsAndArrays\bin\Debug\net6.0\Week6-StringsAndArrays.dll
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\Week6-StringsAndArrays\bin\Debug\net6.0\Week6-StringsAndArrays.pdb
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\Week6-StringsAndArrays\obj\Debug\net6.0\Week6-StringsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\Week6-StringsAndArrays\obj\Debug\net6.0\Week6-StringsAndArrays.AssemblyInfoInputs.cache
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\Week6-StringsAndArrays\obj\Debug\net6.0\Week6-StringsAndArrays.AssemblyInfo.cs
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\Week6-StringsAndArrays\obj\Debug\net6.0\Week6-StringsAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\Week6-StringsAndArrays\obj\Debug\net6.0\Week6-StringsAndArrays.dll
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\Week6-StringsAndArrays\obj\Debug\net6.0\refint\Week6-StringsAndArrays.dll
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\Week6-StringsAndArrays\obj\Debug\net6.0\Week6-StringsAndArrays.pdb
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\Week6-StringsAndArrays\obj\Debug\net6.0\Week6-StringsAndArrays.genruntimeconfig.cache
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\Week6-StringsAndArrays\obj\Debug\net6.0\ref\Week6-StringsAndArrays.dll

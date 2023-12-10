@@ -1,0 +1,14 @@
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithNumbers\bin\Debug\net6.0\ArrayWithNumbers.exe
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithNumbers\bin\Debug\net6.0\ArrayWithNumbers.deps.json
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithNumbers\bin\Debug\net6.0\ArrayWithNumbers.runtimeconfig.json
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithNumbers\bin\Debug\net6.0\ArrayWithNumbers.dll
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithNumbers\bin\Debug\net6.0\ArrayWithNumbers.pdb
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithNumbers\obj\Debug\net6.0\ArrayWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithNumbers\obj\Debug\net6.0\ArrayWithNumbers.AssemblyInfoInputs.cache
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithNumbers\obj\Debug\net6.0\ArrayWithNumbers.AssemblyInfo.cs
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithNumbers\obj\Debug\net6.0\ArrayWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithNumbers\obj\Debug\net6.0\ArrayWithNumbers.dll
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithNumbers\obj\Debug\net6.0\refint\ArrayWithNumbers.dll
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithNumbers\obj\Debug\net6.0\ArrayWithNumbers.pdb
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithNumbers\obj\Debug\net6.0\ArrayWithNumbers.genruntimeconfig.cache
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithNumbers\obj\Debug\net6.0\ref\ArrayWithNumbers.dll

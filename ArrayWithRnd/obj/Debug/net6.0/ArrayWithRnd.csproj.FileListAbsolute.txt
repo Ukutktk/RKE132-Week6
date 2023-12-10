@@ -1,0 +1,14 @@
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithRnd\bin\Debug\net6.0\ArrayWithRnd.exe
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithRnd\bin\Debug\net6.0\ArrayWithRnd.deps.json
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithRnd\bin\Debug\net6.0\ArrayWithRnd.runtimeconfig.json
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithRnd\bin\Debug\net6.0\ArrayWithRnd.dll
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithRnd\bin\Debug\net6.0\ArrayWithRnd.pdb
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithRnd\obj\Debug\net6.0\ArrayWithRnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithRnd\obj\Debug\net6.0\ArrayWithRnd.AssemblyInfoInputs.cache
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithRnd\obj\Debug\net6.0\ArrayWithRnd.AssemblyInfo.cs
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithRnd\obj\Debug\net6.0\ArrayWithRnd.csproj.CoreCompileInputs.cache
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithRnd\obj\Debug\net6.0\ArrayWithRnd.dll
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithRnd\obj\Debug\net6.0\refint\ArrayWithRnd.dll
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithRnd\obj\Debug\net6.0\ArrayWithRnd.pdb
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithRnd\obj\Debug\net6.0\ArrayWithRnd.genruntimeconfig.cache
+C:\Users\Ukupr\source\repos\RKE132-Week6-master\ArrayWithRnd\obj\Debug\net6.0\ref\ArrayWithRnd.dll
